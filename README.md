@@ -1,0 +1,1 @@
+Cheapskate is a project that scrapes data from websites chosen by the user and stores it in a database. Furthermore, it has a GUI that allows users to analyze the scraped data.
